@@ -2,6 +2,7 @@
 
 body {
     width: 90%;
+    background-color: hsla(14, 32%, 39%, 0.562);
 }
 
 h1 {
@@ -9,4 +10,6 @@ h1 {
     font-weight: 200;
     font-style: normal;
     text-align: center;
+    margin: 9%;
+    color: white;
 }
