@@ -31,5 +31,10 @@ img {
     padding: 15px;
     display: block;
     text-align: center;
+    font-family: "Maitree", serif;
+}
+
+.navbar a:hover {
+    background-color: #F4E3E3;
 }
 
