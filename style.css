@@ -21,5 +21,13 @@ img {
 .navbar {
     list-style-type: none;
     background-color: #CAB3B1;
-    
+    padding: 0;
+    margin: 0;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
 }
