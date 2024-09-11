@@ -17,3 +17,9 @@ h2 {
 img {
     width: 90px;
 }
+
+.navbar {
+    list-style-type: none;
+    background-color: #CAB3B1;
+    
+}
