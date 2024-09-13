@@ -7,6 +7,9 @@ h1 {
     box-sizing: border-box;
 }
 
+body {
+    background-color: #9b7367d7;
+}
 
 h1{
     font-size: 440%;
@@ -35,26 +38,22 @@ header {
 }
 
 
-.nav-links {
-    list-style: none;
-    display: flex;
-}
 
-
-.nav-links li {
+.navbar li {
     margin: 40px;
 }
 
 
-.nav-links a {
-    color: #fff;
+.navbar a {
+    color: #000000;
     text-decoration: none;
     font-size: 16px;
-    font-family:"DM Sans", sans-serif;
+    font-family: "Maitree", serif;
+    font-weight: 500;
 }
 
 
-.nav-links a:hover {
+.navbar a:hover {
     text-decoration: solid;
-    background-color: rgb(170, 215, 255);
+    background-color: #F4E3E3;
 }
