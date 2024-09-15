@@ -1,29 +1,38 @@
-@import url('https://fonts.googleapis.com/css2?family=Maitree:wght@200;300;400;500;600;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=Italianno&family=Questrial&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+
+
+body, h1, ul {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Italianno", cursive;
+}
 
 
 body {
-    background-color: #9b7367d7;
+    background-color: #b67c6b;
 }
+
 
 h1{
     font-size: 440%;
-    font-family: "Italianno", cursive;
-    color: black;
+    letter-spacing: 20%;
 }
+
+
+
 
 header {
     background-color: #CAB3B1;
-    color: #fff;
-    margin: 0px;
+    color: #000000;
 }
+
+
+
+
+
 
 .navbar {
-    padding: 20px;
-    align-items: left;
-}
-
-.navbar ul{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -31,21 +40,52 @@ header {
 }
 
 
-.navbar li {
-    margin: 5px;
+
+
+
+
+.logo h1 {
+    margin: 0;
 }
 
 
-.navbar a {
+
+
+
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+
+
+
+
+
+.nav-links li {
+    margin: 40px;
+}
+
+
+
+
+
+
+.nav-links a {
     color: #000000;
     text-decoration: none;
     font-size: 16px;
     font-family: "Maitree", serif;
-    font-weight: 500;
+    font-size: 150%;
 }
 
 
-.navbar a:hover {
+
+
+
+
+.nav-links a:hover {
     text-decoration: solid;
-    background-color: #F4E3E3;
+    background-color: rgb(185, 147, 147);
 }
