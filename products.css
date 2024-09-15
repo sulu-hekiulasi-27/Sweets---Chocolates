@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+
+
+body, h1, ul {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Italianno", cursive;
+}
+
+
+body {
+    background-color: #b67c6b;
+}
+
+
+h1{
+    font-size: 440%;
+    letter-spacing: 20%;
+}
+
+
+
+
+header {
+    background-color: #CAB3B1;
+    color: #000000;
+}
+
+
+
+
+
+
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 10px 20px;
+}
+
+
+
+
+
+
+.logo h1 {
+    margin: 0;
+}
+
+
+
+
+
+
+.nav-links {
+    list-style: none;
+    display: flex;
+}
+
+
+
+
+
+
+.nav-links li {
+    margin: 40px;
+}
+
+
+
+
+
+
+.nav-links a {
+    color: #000000;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: "Maitree", serif;
+    font-size: 150%;
+}
+
+
+
+
+
+
+.nav-links a:hover {
+    text-decoration: solid;
+    background-color: rgb(185, 147, 147);
+}
