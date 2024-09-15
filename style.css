@@ -1,11 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Maitree:wght@200;300;400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=Italianno&family=Questrial&display=swap');
 
-h1 {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 
 body {
     background-color: #9b7367d7;
@@ -17,15 +12,15 @@ h1{
     color: black;
 }
 
-
 header {
     background-color: #CAB3B1;
     color: #fff;
-    margin-bottom: 8%;
+    margin: 0px;
 }
 
 .navbar {
     padding: 20px;
+    align-items: left;
 }
 
 .navbar ul{
