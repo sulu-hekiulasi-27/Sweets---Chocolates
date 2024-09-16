@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Maitree:wght@200;300;400;500;600;700&display=swap');
 
 
 body, h1, ul {
@@ -10,7 +11,7 @@ body, h1, ul {
 
 
 body {
-    background-color: #a0938f;
+    background-color: #8a7974;
 }
 
 
@@ -92,4 +93,6 @@ header {
 
 h2 {
     color: azure;
+    font-family: "Maitree", serif;
+    font-weight: 200;
 }
