@@ -123,3 +123,7 @@ footer {
 .contact {
     font-family: "Maitree", serif;
 }
+
+.contact p {
+    color: #FFFFFF;
+}
