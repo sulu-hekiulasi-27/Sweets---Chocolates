@@ -82,3 +82,34 @@ h2 {
     margin-right: auto;
     width: 50%;
 }
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+
+.content img {
+    max-width: 500px;
+    margin-right: 30px;
+}
+
+
+.text {
+    max-width: 400px;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+
+.text p {
+    margin-bottom: 20px;
+    line-height: 1.6;
+    font-family: "Maitree", serif;
+    font-size: 18px;
+}
