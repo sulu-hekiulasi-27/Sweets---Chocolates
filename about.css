@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Maitree:wght@200;300;400;500;600;700&display=swap');
 
 
 body, h1, ul {
@@ -10,7 +11,7 @@ body, h1, ul {
 
 
 body {
-    background-color: #845344;
+    background-color: #8a7974;
 }
 
 
@@ -20,16 +21,10 @@ h1{
 }
 
 
-
-
 header {
     background-color: #CAB3B1;
     color: #000000;
 }
-
-
-
-
 
 
 .navbar {
@@ -40,17 +35,9 @@ header {
 }
 
 
-
-
-
-
 .logo h1 {
     margin: 0;
 }
-
-
-
-
 
 
 .nav-links {
@@ -59,17 +46,9 @@ header {
 }
 
 
-
-
-
-
 .nav-links li {
     margin: 40px;
 }
-
-
-
-
 
 
 .nav-links a {
@@ -81,11 +60,24 @@ header {
 }
 
 
-
-
-
-
 .nav-links a:hover {
     text-decoration: solid;
     background-color: rgb(185, 147, 147);
+}
+
+
+h2 {
+    color: azure;
+    font-family: "Maitree", serif;
+    font-weight: 200;
+    letter-spacing: 3px;
+    text-align: center;
+    margin: 2%;
+}
+
+.center {
+    display: block;
+    margin-left: 700px;
+    margin-right: auto;
+    width: 50%;
 }
