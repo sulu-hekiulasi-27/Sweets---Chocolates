@@ -117,7 +117,8 @@ h2 {
 }
 
 footer {
-    background-color:#C8A6A6 ;
+    background-color:#C8A6A6;
+    padding-left: 30px;
 }
 
 .contact {
@@ -126,6 +127,7 @@ footer {
 
 .contact p {
     color: #FFFFFF;
+    margin-bottom: 20px;
 }
 
 .contact h1 {
