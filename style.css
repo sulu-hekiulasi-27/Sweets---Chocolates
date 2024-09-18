@@ -130,5 +130,6 @@ footer {
 
 .contact h1 {
     color:#FFFFFF;
-    font-family:"Maitree", serif; ;
+    font-family:"Maitree", serif;
+    font-weight: 500;
 }
