@@ -123,15 +123,16 @@ footer {
 
 .contact {
     font-family: "Maitree", serif;
+    margin-bottom: 50px;
 }
 
 .contact p {
     color: #FFFFFF;
-    margin-bottom: 20px;
+    margin-top: 10px;
 }
 
 .contact h1 {
     color:#FFFFFF;
     font-family:"Maitree", serif;
-    font-weight: 500;
+    font-weight: 400;
 }
