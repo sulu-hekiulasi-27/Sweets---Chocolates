@@ -58,6 +58,7 @@ header {
     font-size: 16px;
     font-family: "Maitree", serif;
     font-size: 150%;
+    font-weight: 700;
 }
 
 
@@ -76,12 +77,14 @@ h2 {
     margin: 2%;
 }
 
+
 .center {
     display: block;
     margin-left: 700px;
     margin-right: auto;
     width: 50%;
 }
+
 
 .product-section {
     text-align: center;
@@ -97,7 +100,7 @@ h2 {
 }
 
 
-.product-1 img {
+.product img {
     max-width: 325px;
     margin-right: 70px;
 }
@@ -127,8 +130,6 @@ h3 {
     color: azure;
     text-align: center;
 }
-
-
 
 
 p {
