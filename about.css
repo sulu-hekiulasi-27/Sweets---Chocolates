@@ -83,3 +83,26 @@ h2 {
     margin-right: auto;
     width: 50%;
 }
+
+footer {
+    background-color:#C8A6A6;
+    padding-left: 30px;
+}
+
+.contact {
+    font-family: "Maitree", serif;
+    margin-bottom: 50px;
+}
+
+.contact p {
+    color: #FFFFFF;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.contact h1 {
+    color:#FFFFFF;
+    font-family:"Maitree", serif;
+    font-weight: 300;
+    font-size: ;
+}
