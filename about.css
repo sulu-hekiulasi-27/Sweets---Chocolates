@@ -11,7 +11,7 @@ body, h1, ul {
 
 
 body {
-    background-color: #af9e98;
+    background-color: #6F4318;
 }
 
 
@@ -21,7 +21,7 @@ h1{
 
 
 header {
-    background-color: #CAB3B1;
+    background-color: #F5B56D;
     color: #000000;
 }
 
@@ -127,4 +127,18 @@ footer {
     margin-bottom: 20px;
     color: azure;
     font-family:"Maitree", serif;
+}
+
+p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: azure;
+    font-family: "Maitree", serif;
+    font-weight: 500;
+}
+
+.signature {
+    margin-top: 40px;
+    font-size:10;
+    text-align:left;
 }
