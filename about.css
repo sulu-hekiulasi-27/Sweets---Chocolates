@@ -106,3 +106,9 @@ footer {
     font-weight: 300;
     font-size: ;
 }
+
+.header h1 {
+    color: #FFFFFF;
+    font-family:"Maitree", serif;
+    font-weight: 300;
+}
