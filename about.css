@@ -112,3 +112,19 @@ footer {
     font-family:"Maitree", serif;
     font-weight: 300;
 }
+
+.about-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding:20px;
+    border-radius: 8px;
+}
+
+
+.about-container h1 {
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: azure;
+    font-family:"Maitree", serif;
+}
