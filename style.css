@@ -64,7 +64,7 @@ header {
 
 .nav-links a:hover {
     text-decoration: solid;
-    background-color:#ffffff ;
+    background-color:#d3b89a ;
 }
 
 
@@ -137,8 +137,4 @@ footer {
     font-family:"Maitree", serif;
     font-weight: 300;
     font-size: ;
-}
-
-.info p {
-    font-weight: 500 ;
 }
