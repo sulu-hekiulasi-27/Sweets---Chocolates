@@ -133,10 +133,11 @@ h3 {
 
 p {
     font-family: "Maitree", serif;
-    font-weight: 200;
+    font-weight: 500;
     color: azure;
     margin-bottom: 5px;
     margin-top: 5px;
+    width: max-content;
 }
 
 footer {
