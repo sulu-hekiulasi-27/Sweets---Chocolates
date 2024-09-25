@@ -53,7 +53,7 @@ header {
 
 
 .nav-links a {
-    color: #000000;
+    color: #ffffff;
     text-decoration: none;
     font-size: 16px;
     font-family: "Maitree", serif;
@@ -64,7 +64,7 @@ header {
 
 .nav-links a:hover {
     text-decoration: solid;
-    background-color: #ffffff ;
+    background-color: #d3b89a ;
 }
 
 
